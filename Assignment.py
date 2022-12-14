@@ -1,0 +1,6 @@
+print("Name: Clinton Hickson Eyyammeh")
+print("Email: eyyammeh@gmail.com")
+print("Reg. No: UG17/MDHA/1005")
+print("Programing Language: Python Version 3.9.5")
+print("Sub-speciality: Gene Mapping")
+print("Slack username: @Eyyammeh Clinton Hickson")
