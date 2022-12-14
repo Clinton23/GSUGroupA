@@ -1,0 +1,6 @@
+print("Clinton Hickson Eyyammeh")
+print("eyyammeh@gmail.com")
+print("UG17/MDHA/1005")
+print("Python Version 3.9.5")
+print("Gene Mapping")
+print("@Eyyammeh Clinton Hickson")
