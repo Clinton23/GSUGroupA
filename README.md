@@ -7,4 +7,18 @@ Names of group members includes:
 2. Dahiru Okashatu Ismail
 3. Hickson Clinton Eyyammeh
 ## PROGRAMMING LANGUAGE
-|Name|Programming Language
+* The Language used by each group member is as follows.
+
+| S/N    | Name                              | Matriculation Number    | Programming Lang |
+|--------|-----------------------------------|-------------------------|------------------|
+|   1    | Dalbadal Paul Amana               | UG17/MDHA/1009          |                  |
+|   2    | Dahiru Okashatu Ismail            | UG17/MDHA/1008          | Java Script&HTML |
+|   3    | Hickson Clinton Eyyammeh          | UG17/MDHA/1005          | Python           |
+
+# Workflow
+```mermaid
+graph TD;
+    A[STEP1: The class Splitted into two team and each team created a Github repository at www.github.com]-->B;
+     B[STEP1: The class Splitted into two team and each team created a Github repository at www.github.com]-->C;
+```
+
