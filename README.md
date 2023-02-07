@@ -7,7 +7,7 @@ Names of group members includes:
 2. Dahiru Okashatu Ismail
 3. Hickson Clinton Eyyammeh
 ## PROGRAMMING LANGUAGE
-* The Language used by each group member is as follows.
+* The Languages used by group members are as follows.
 
 | S/N    | Name                              | Matriculation Number    | Programming Lang |
 |--------|-----------------------------------|-------------------------|------------------|
