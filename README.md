@@ -18,7 +18,11 @@ Names of group members includes:
 # Workflow
 ```mermaid
 graph TD;
-    A[STEP1: The class Splitted into two team and each team created a Github repository at www.github.com]-->B;
-     B[STEP1: The class Splitted into two team and each team created a Github repository at www.github.com]-->C;
+    A[STEP1: Split yourself into two team and each team should create a Github repository]-->B;
+     B[STEP2: Add a comprehensive README file with essential information using markdown]-->C;
+      C[STEP3: Individuals in each of the two groups should write a script (using any language of their choice) that prints your name, your email, your matriculation number, the programming language you used, your bioinformatics sub-speciality and your slack username]-->D;
+       D[STEP4: Push the script to your team’s GitHub repository]-->E;
+        E[STEP5: Collaboratively as a team, include a bash script that clones the git repository, and generates a CSV file from all the outputs of your team’s scripts]-->F;
+         F[STEP6: Submit your team’s github link to only the bash script]
 ```
 
